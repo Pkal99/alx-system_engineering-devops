@@ -1,1 +1,1 @@
-my first readme bashscript
+where am i
