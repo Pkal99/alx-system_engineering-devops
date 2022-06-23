@@ -1,1 +1,1 @@
-my alx devops readme
+my first readme bashscript
